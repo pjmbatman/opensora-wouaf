@@ -32,4 +32,4 @@ The rest of the arguments remain consistent with the Wouaf framework.
 `````
 ### Training:
 
-Run train.sh
+- Run train.sh
