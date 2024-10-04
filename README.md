@@ -1,5 +1,4 @@
 # Training with Video and Image Datasets
-
 This repository provides a training pipeline that can be used for both image and video datasets. The dataset and training parameters can be easily modified through the provided arguments.
 
 ## Dataset
@@ -29,3 +28,7 @@ Training Options:
 --train_batch_size: Batch size for training.
 
 The rest of the arguments remain consistent with the Wouaf framework.
+
+### Training:
+
+Run train.sh
